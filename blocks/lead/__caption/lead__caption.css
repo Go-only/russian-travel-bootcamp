@@ -6,3 +6,12 @@
   color: #fff;
   text-transform: uppercase;
 }
+
+@media screen and (max-width: 768px) {
+
+  .lead__caption {
+    width: calc(100vw - 48px);
+    margin: 0 auto;
+  }
+
+}

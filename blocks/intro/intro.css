@@ -6,3 +6,12 @@
   align-items: flex-start;
   margin: 0 auto 92px;
 }
+
+@media screen and (max-width: 768px) {
+
+  .intro {
+    width: calc(100vw - 48px);
+    margin-bottom: 88px;
+  }
+
+}

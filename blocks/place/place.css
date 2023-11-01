@@ -12,3 +12,21 @@
   }
 
 }
+
+@media screen and (max-width: 862px) {
+
+  .place {
+    grid-template-columns: 390px 1fr;
+    column-gap: 30px;
+  }
+
+}
+
+@media screen and (max-width: 768px) {
+
+  .place {
+    grid-template-columns: 340px 1fr;
+    column-gap: 28px;
+  }
+
+}
