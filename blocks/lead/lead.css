@@ -4,5 +4,13 @@
   align-items: center;
   width: calc(100vw - 196px);
   max-width: 984px;
-  margin: 0px auto 83px;
+  margin: 0px auto 92px;
+}
+
+@media screen and (max-width: 1024px) {
+
+  .lead {
+    width: calc(100vw - 96px);
+  }
+
 }

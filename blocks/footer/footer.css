@@ -1,0 +1,8 @@
+.footer {
+  width: calc(100vw - 96px);
+  max-width: 1184px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 0 24px;
+}
