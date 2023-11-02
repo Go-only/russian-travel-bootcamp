@@ -11,3 +11,12 @@
   }
 
 }
+
+@media screen and (max-width: 425px) {
+
+  .place__paragraphs {
+    width: calc(100vw - 32px);
+    margin: 0 auto;
+  }
+
+}

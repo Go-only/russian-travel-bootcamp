@@ -15,3 +15,12 @@
   }
 
 }
+
+@media screen and (max-width: 720px) {
+
+  .intro {
+    width: calc(100vw - 32px);
+    margin-bottom: 64px;
+  }
+
+}

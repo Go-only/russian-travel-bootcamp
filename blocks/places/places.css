@@ -17,3 +17,21 @@
   }
 
 }
+
+@media screen and (max-width: 720px) {
+
+  .places {
+    width: calc(100vw - 32px);
+    row-gap: 50px;
+    margin-bottom: 66px;
+  }
+
+}
+
+@media screen and (max-width: 425px) {
+
+  .places {
+    width: 100%;
+  }
+
+}

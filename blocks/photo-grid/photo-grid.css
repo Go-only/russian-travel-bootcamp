@@ -24,3 +24,28 @@
   }
 
 }
+
+@media screen and (max-width: 720px) {
+
+  .photo-grid {
+    width: calc(100vw - 32px);
+    margin-bottom: 64px;
+  }
+
+}
+
+@media screen and (max-width: 425px) {
+
+  .photo-grid {
+    gap: 12px;
+  }
+
+}
+
+@media screen and (max-width: 280px) {
+
+  .photo-grid {
+    width: 100%;
+  }
+
+}

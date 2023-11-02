@@ -31,7 +31,7 @@
 
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 720px) {
 
   .place {
     grid-template-columns: 1fr;

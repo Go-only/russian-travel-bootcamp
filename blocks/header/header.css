@@ -1,8 +1,9 @@
 .header {
-  display: flex;
-  justify-content: space-between;
   width: calc(100vw - 96px);
   max-width: 1184px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
   margin: 28px auto 56px;
 }
 
@@ -26,7 +27,7 @@
 
   .header {
     width: calc(100vw - 32px);
-    margin-bottom: 16px;
+    margin-top: 16px;
   }
 
 }

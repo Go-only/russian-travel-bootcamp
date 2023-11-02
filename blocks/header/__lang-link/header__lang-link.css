@@ -4,3 +4,12 @@
   font-weight: 400;
   color: #fff;
 }
+
+@media screen and (max-width: 425px) {
+
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 1.11;
+  }
+
+}
